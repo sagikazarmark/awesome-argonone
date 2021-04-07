@@ -145,6 +145,7 @@ Other Argon ONE related components.
 - [Jonesyj83/PiHole-ArgononeFanSpeed](https://github.com/Jonesyj83/PiHole-ArgononeFanSpeed): PiHole integration.
 - [vrischmann/argonone](https://github.com/vrischmann/argonone): Argon ONE fan speed control written in [Zig](https://ziglang.org/).
 - [DarkElvenAngel/argonone-applet](https://gitlab.com/DarkElvenAngel/argonone-applet): A companion applet for [Argon ONE Daemon](https://gitlab.com/DarkElvenAngel/argonone-applet).
+- [agarthetiger/argon-one](https://github.com/agarthetiger/argon-one): Ansible role for installing Argon ONE software.
 
 
 ## Reviews, tutorials
