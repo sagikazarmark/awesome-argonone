@@ -154,8 +154,8 @@ Reviews about the case and tutorials about assembling and using it.
 - [Argon One M.2 Raspberry Pi Case - SSD on your Pi 4!](https://www.youtube.com/watch?v=rLBdi8B5Wgk) (by Jeff Geerling)
 - [Argon One M.2 Raspberry Pi SSD Case Review](https://www.jeffgeerling.com/blog/2021/argon-one-m2-raspberry-pi-ssd-case-review) (by Jeff Geerling)
 - [Is This The Best Raspberry Pi 4 Case? The New Argon One M.2 - Review](https://www.youtube.com/watch?v=LLc4pF3jZQg)
-
 - [Installing k3os on a Raspberry Pi with an Argon case ](https://tinkerlab.fr/202102d-Install-k3os-on-raspberry-pi/)
+- [Argon-ONE-i2c-Codes](https://github.com/Argon40Tech/Argon-ONE-i2c-Codes)
 
 
 ## License
